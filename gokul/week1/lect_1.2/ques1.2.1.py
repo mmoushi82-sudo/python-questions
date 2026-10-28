@@ -8,3 +8,10 @@
 #     *********#
 #     i don't know what to type
 #     ```
+# op:
+print("*")
+print("**")
+print("***")
+print("****")
+print("*******")
+print("**********")
